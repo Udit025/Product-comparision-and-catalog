@@ -1,4 +1,4 @@
-Open the project in Vs code and run the command npm install.
+Open the project in Ide and run the command npm install.
 <br></br>
 If face any DEPRECIATED issue in dependencies run npm audit fix --force.
 <br></br>
